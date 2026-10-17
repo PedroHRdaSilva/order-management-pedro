@@ -22,4 +22,4 @@ Organização: Cada pasta tem sua função, deixando o código mais fácil de en
 
 Manutenção: Se precisar mudar alguma regra do sistema, consigo fazer isso sem precisar mexer em várias partes do código.
 
-Trabalho em equipe: Com o código organizado, fica mais fácil para outras pessoas entenderem o projeto e trabalharem nele também.
+Trabalho em equipe: Com o código organizado, fica mais fácil para outras pessoas entenderem o projeto e trabalharem nele também.coisa boa
